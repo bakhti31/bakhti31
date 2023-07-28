@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bakhti31
 - 👀 I’m interested in Software Development, Blender 3d, IOT, Microprocessing, Java, Python, Automation Task, Android, Windows, Linux, Network stuff
-- 🌱 I’m currently learning Python uiautomator, Java Android, Java Desktop
-- 💞️ I’m looking to collaborate on Website Project, or Software Developing
+- 🌱 I’m currently learning Arduino, Python Web Scraping, and Web Framework.
+- 💞️ I’m looking to collaborate on Website Development, Software Development, Network Administrator, or Internet Of Thing Development
 - 📫 How to reach me: 
     - Facebook: https://fb.me/bakhtiar.rf, 
     - Email: bakhtiar.rf@gmail.com, 
